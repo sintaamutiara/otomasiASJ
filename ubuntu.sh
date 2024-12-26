@@ -90,7 +90,7 @@ ________   ___________________      _____      _____     _________.__
 
 EOF
 sleep 5
-echo "Inisialisasi awal ..."
+echo "Otomasi dimulai ..."
 
 # Menambahkan repositori Kartolo
 echo "Menambahkan repositori Kartolo..."
