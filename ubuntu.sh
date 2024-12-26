@@ -36,7 +36,7 @@ IP_DNS="8.8.8.8, 8.8.4.4"
 IP_Pref="/24"
 
 # FIX DHCP
-IP_FIX="192.168.34.34"
+IP_FIX="192.168.34.1"
 IP_MAC="00:50:79:66:68:03"
 
 # Fungsi untuk memeriksa status exit
